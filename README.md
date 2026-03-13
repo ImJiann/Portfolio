@@ -1,5 +1,4 @@
-# Portfolio
-!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
     <title> Portfolio Landing Page </title>
