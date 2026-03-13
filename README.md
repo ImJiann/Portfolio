@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title> Portfolio Landing Page </title>
 </head>
 <body>
     <h1> Portfolio Landing Page  </h1>
@@ -24,7 +23,7 @@
     <th> 202410690 </th>
     </tr>
  </table>
-
+<hr>
  <br>
     <fieldset><legend>Information About Me</legend>
 <ul>
